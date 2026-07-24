@@ -26,10 +26,15 @@ Gollum CustomMedia enthält die Sprach und Video Dateien sowie Texte der gesproc
 
 Erst müssen beide Dateien heruntergeladen werden
 Beide Dateien über 7zip entpacken.
+
 Den "Gollum" Ordner in C:\Users\EuerNutzerName\AppData\LocalLow\Firefly Studios\Stronghold Crusader Definitive Edition\CustomLords verschieben
+
 "Gollum CustomMedia" in C:\Users\EuerNutzerName\AppData\LocalLow\Firefly Studios\Stronghold Crusader Definitive Edition\CustomMedia verschieben
+
 "Gollum CustomMedia" in "Gollum" unbennen.
 
 Danach sollten die Pfade beispielsweise so aussehen: 
+
 C:\Users\EuerNutzerName\AppData\LocalLow\Firefly Studios\Stronghold Crusader Definitive Edition\CustomLords\Gollum 
+
 C:\Users\EuerNutzerName\AppData\LocalLow\Firefly Studios\Stronghold Crusader Definitive Edition\CustomMedia\Gollum
